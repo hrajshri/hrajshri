@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on various Web UI automation tools<br>Im also learning How AI can can be used to fast track testing and it can revolutionize modern day testing 
+Im currently working on various Web UI automation tools<br>Im also learning "how AI can can be used to fast track testing and how it can revolutionize modern day testing" 
 
 
 ## 🌐 Socials:
