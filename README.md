@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on various Web UI, API, Visual Testing, mainframe,Performance, Moitoring automation tools<br>"how AI can can be used to fast track testing and how it can revolutionize modern day testing" 
+Im currently working on various Web UI, API, Visual Testing, mainframe,Performance, Moitoring automation tools<br>" Implementing fast track testing and revolutionizing modern day testing" 
 
 
 ## 🌐 Socials:
